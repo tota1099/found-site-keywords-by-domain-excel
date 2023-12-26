@@ -19,5 +19,8 @@ python run.py
 
 ## Example
 
+![image](https://github.com/tota1099/found-site-keywords-by-domain-excel/assets/12802340/586e8834-a392-424e-852f-adc5822ab831)
 
 After the script..
+
+![image](https://github.com/tota1099/found-site-keywords-by-domain-excel/assets/12802340/84655fef-4c3b-4f26-a167-70593b0ce41d)
